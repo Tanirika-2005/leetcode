@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Tanirika-2005/leetcode/tree/master/0455-assign-cookies) |
+| [0463-island-perimeter](https://github.com/Tanirika-2005/leetcode/tree/master/0463-island-perimeter) |
 | [0890-lemonade-change](https://github.com/Tanirika-2005/leetcode/tree/master/0890-lemonade-change) |
 | [0966-binary-subarrays-with-sum](https://github.com/Tanirika-2005/leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Tanirika-2005/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
@@ -75,4 +76,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2050-count-good-numbers](https://github.com/Tanirika-2005/leetcode/tree/master/2050-count-good-numbers) |
+## Depth-First Search
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/Tanirika-2005/leetcode/tree/master/0463-island-perimeter) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/Tanirika-2005/leetcode/tree/master/0463-island-perimeter) |
+## Matrix
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/Tanirika-2005/leetcode/tree/master/0463-island-perimeter) |
 <!---LeetCode Topics End-->
