@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/Tanirika-2005/leetcode/tree/master/0038-count-and-say) |
 | [0402-remove-k-digits](https://github.com/Tanirika-2005/leetcode/tree/master/0402-remove-k-digits) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Tanirika-2005/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Stack
