@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/Tanirika-2005/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Tanirika-2005/leetcode/tree/master/0055-jump-game) |
+| [0217-contains-duplicate](https://github.com/Tanirika-2005/leetcode/tree/master/0217-contains-duplicate) |
 | [0455-assign-cookies](https://github.com/Tanirika-2005/leetcode/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/Tanirika-2005/leetcode/tree/master/0463-island-perimeter) |
 | [0890-lemonade-change](https://github.com/Tanirika-2005/leetcode/tree/master/0890-lemonade-change) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Tanirika-2005/leetcode/tree/master/0217-contains-duplicate) |
 | [0455-assign-cookies](https://github.com/Tanirika-2005/leetcode/tree/master/0455-assign-cookies) |
 ## Binary Search
 |  |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Tanirika-2005/leetcode/tree/master/0217-contains-duplicate) |
 | [0966-binary-subarrays-with-sum](https://github.com/Tanirika-2005/leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Tanirika-2005/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Tanirika-2005/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
