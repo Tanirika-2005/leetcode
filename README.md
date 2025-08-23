@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Tanirika-2005/leetcode/tree/master/0001-two-sum) |
 | [0045-jump-game-ii](https://github.com/Tanirika-2005/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Tanirika-2005/leetcode/tree/master/0055-jump-game) |
 | [0217-contains-duplicate](https://github.com/Tanirika-2005/leetcode/tree/master/0217-contains-duplicate) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Tanirika-2005/leetcode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Tanirika-2005/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Tanirika-2005/leetcode/tree/master/0242-valid-anagram) |
 | [0966-binary-subarrays-with-sum](https://github.com/Tanirika-2005/leetcode/tree/master/0966-binary-subarrays-with-sum) |
