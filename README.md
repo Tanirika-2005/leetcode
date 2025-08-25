@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/Tanirika-2005/leetcode/tree/master/0038-count-and-say) |
+| [0049-group-anagrams](https://github.com/Tanirika-2005/leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Tanirika-2005/leetcode/tree/master/0242-valid-anagram) |
 | [0402-remove-k-digits](https://github.com/Tanirika-2005/leetcode/tree/master/0402-remove-k-digits) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Tanirika-2005/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Tanirika-2005/leetcode/tree/master/0001-two-sum) |
 | [0045-jump-game-ii](https://github.com/Tanirika-2005/leetcode/tree/master/0045-jump-game-ii) |
+| [0049-group-anagrams](https://github.com/Tanirika-2005/leetcode/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/Tanirika-2005/leetcode/tree/master/0055-jump-game) |
 | [0217-contains-duplicate](https://github.com/Tanirika-2005/leetcode/tree/master/0217-contains-duplicate) |
 | [0455-assign-cookies](https://github.com/Tanirika-2005/leetcode/tree/master/0455-assign-cookies) |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Tanirika-2005/leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Tanirika-2005/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Tanirika-2005/leetcode/tree/master/0242-valid-anagram) |
 | [0455-assign-cookies](https://github.com/Tanirika-2005/leetcode/tree/master/0455-assign-cookies) |
@@ -70,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Tanirika-2005/leetcode/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/Tanirika-2005/leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Tanirika-2005/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Tanirika-2005/leetcode/tree/master/0242-valid-anagram) |
 | [0966-binary-subarrays-with-sum](https://github.com/Tanirika-2005/leetcode/tree/master/0966-binary-subarrays-with-sum) |
