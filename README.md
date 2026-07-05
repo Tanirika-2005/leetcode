@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Tanirika-2005/leetcode/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/Tanirika-2005/leetcode/tree/master/0463-island-perimeter) |
 | [0890-lemonade-change](https://github.com/Tanirika-2005/leetcode/tree/master/0890-lemonade-change) |
+| [0930-binary-subarrays-with-sum](https://github.com/Tanirika-2005/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0966-binary-subarrays-with-sum](https://github.com/Tanirika-2005/leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Tanirika-2005/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Tanirika-2005/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tanirika-2005/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Tanirika-2005/leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0930-binary-subarrays-with-sum](https://github.com/Tanirika-2005/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0966-binary-subarrays-with-sum](https://github.com/Tanirika-2005/leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Tanirika-2005/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Tanirika-2005/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0930-binary-subarrays-with-sum](https://github.com/Tanirika-2005/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0966-binary-subarrays-with-sum](https://github.com/Tanirika-2005/leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Tanirika-2005/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/Tanirika-2005/leetcode/tree/master/1046-max-consecutive-ones-iii) |
@@ -86,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Tanirika-2005/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Tanirika-2005/leetcode/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Tanirika-2005/leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0930-binary-subarrays-with-sum](https://github.com/Tanirika-2005/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0966-binary-subarrays-with-sum](https://github.com/Tanirika-2005/leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Tanirika-2005/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Tanirika-2005/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
