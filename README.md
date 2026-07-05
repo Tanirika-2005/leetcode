@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Tanirika-2005/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0038-count-and-say](https://github.com/Tanirika-2005/leetcode/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/Tanirika-2005/leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Tanirika-2005/leetcode/tree/master/0242-valid-anagram) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Tanirika-2005/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0966-binary-subarrays-with-sum](https://github.com/Tanirika-2005/leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Tanirika-2005/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/Tanirika-2005/leetcode/tree/master/1046-max-consecutive-ones-iii) |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Tanirika-2005/leetcode/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Tanirika-2005/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Tanirika-2005/leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Tanirika-2005/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Tanirika-2005/leetcode/tree/master/0242-valid-anagram) |
