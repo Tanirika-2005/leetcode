@@ -10,12 +10,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Tanirika-2005/leetcode/tree/master/0242-valid-anagram) |
 | [0402-remove-k-digits](https://github.com/Tanirika-2005/leetcode/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/Tanirika-2005/leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0678-valid-parenthesis-string](https://github.com/Tanirika-2005/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Tanirika-2005/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Tanirika-2005/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Stack
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/Tanirika-2005/leetcode/tree/master/0402-remove-k-digits) |
+| [0678-valid-parenthesis-string](https://github.com/Tanirika-2005/leetcode/tree/master/0678-valid-parenthesis-string) |
 ## Greedy
 |  |
 | ------- |
@@ -23,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Tanirika-2005/leetcode/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/Tanirika-2005/leetcode/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/Tanirika-2005/leetcode/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/Tanirika-2005/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/Tanirika-2005/leetcode/tree/master/0860-lemonade-change) |
 | [0890-lemonade-change](https://github.com/Tanirika-2005/leetcode/tree/master/0890-lemonade-change) |
 ## Monotonic Stack
@@ -138,4 +141,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/Tanirika-2005/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Tanirika-2005/leetcode/tree/master/0055-jump-game) |
+| [0678-valid-parenthesis-string](https://github.com/Tanirika-2005/leetcode/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
