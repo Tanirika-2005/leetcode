@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Tanirika-2005/leetcode/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/Tanirika-2005/leetcode/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/Tanirika-2005/leetcode/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/Tanirika-2005/leetcode/tree/master/0860-lemonade-change) |
 | [0890-lemonade-change](https://github.com/Tanirika-2005/leetcode/tree/master/0890-lemonade-change) |
 ## Monotonic Stack
 |  |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Tanirika-2005/leetcode/tree/master/0217-contains-duplicate) |
 | [0455-assign-cookies](https://github.com/Tanirika-2005/leetcode/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/Tanirika-2005/leetcode/tree/master/0463-island-perimeter) |
+| [0860-lemonade-change](https://github.com/Tanirika-2005/leetcode/tree/master/0860-lemonade-change) |
 | [0890-lemonade-change](https://github.com/Tanirika-2005/leetcode/tree/master/0890-lemonade-change) |
 | [0930-binary-subarrays-with-sum](https://github.com/Tanirika-2005/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0966-binary-subarrays-with-sum](https://github.com/Tanirika-2005/leetcode/tree/master/0966-binary-subarrays-with-sum) |
