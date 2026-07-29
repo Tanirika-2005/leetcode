@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Tanirika-2005/leetcode/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/Tanirika-2005/leetcode/tree/master/0135-candy) |
 | [0217-contains-duplicate](https://github.com/Tanirika-2005/leetcode/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/Tanirika-2005/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/Tanirika-2005/leetcode/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/Tanirika-2005/leetcode/tree/master/0463-island-perimeter) |
 | [0860-lemonade-change](https://github.com/Tanirika-2005/leetcode/tree/master/0860-lemonade-change) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Tanirika-2005/leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Tanirika-2005/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Tanirika-2005/leetcode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Tanirika-2005/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/Tanirika-2005/leetcode/tree/master/0455-assign-cookies) |
 ## Binary Search
 |  |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Tanirika-2005/leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Tanirika-2005/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Tanirika-2005/leetcode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Tanirika-2005/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/Tanirika-2005/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0930-binary-subarrays-with-sum](https://github.com/Tanirika-2005/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0966-binary-subarrays-with-sum](https://github.com/Tanirika-2005/leetcode/tree/master/0966-binary-subarrays-with-sum) |
@@ -120,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Tanirika-2005/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Tanirika-2005/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Tanirika-2005/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 ## Recursion
@@ -144,4 +148,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Tanirika-2005/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Tanirika-2005/leetcode/tree/master/0055-jump-game) |
 | [0678-valid-parenthesis-string](https://github.com/Tanirika-2005/leetcode/tree/master/0678-valid-parenthesis-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Tanirika-2005/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Tanirika-2005/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Tanirika-2005/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Tanirika-2005/leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
